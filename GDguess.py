@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri May 26 19:57:36 2017
-
 @author: Administrator
+验证哥德巴赫猜想，即对于一个大于2的偶数p，存在两个质数m，n使m+n=p成立
 """
 
 def isprime(numb):
